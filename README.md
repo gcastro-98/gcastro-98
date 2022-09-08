@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I am Gerard! 👋 
+Amongst other things: I love maths, modelling & computers. No wonder why I work as Data Scientist, right? But did you know... 
+
+- 🔭 I'm the main developer of the (meteorological) seasonal forecasting product at Vortex
+- 🌱 I studied Maths & Physics (BSc in UAB), and I am currently pursuing my MSc on Data Science in UB
+- 👯 Looking forward to collaborate on ML/AI related projects. Ideally, if they involve physics or our beloved green world!
+- 💬 Ask me about diving and I will not shut up 
+- 📫 Reach me mailing at gerardc98+github@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy game dev (C#), or writing a little bit of poetry, when I have some spare time...
+<!-- - ✨ Curious learner: on -->
+<!-- - 🤔 You can check my personal page for more info -->
 
 <!--
 **gcastro-98/gcastro-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
