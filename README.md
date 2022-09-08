@@ -1,7 +1,9 @@
 # Hi, I am Gerard! 👋 
 <!-- visitor badge and social networks -->
 <!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgcastro-98&label=Site's%20visitors%3A%20&labelColor=%23ff8a65&countColor=%23697689&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgcastro-98) -->
-<a href="https://www.linkedin.com/in/gcastro98/"> <img height="25em" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://gcastro-98.github.io/"> <img height="25em" width="auto" src="img/my-page-badge.png" /></a>
+<!-- MY PAGE --> <a href="https://gcastro-98.github.io/"> <img height="25em" width="auto" src="img/my-page-badge.png" /></a> <!-- LINKEDIN --> <a href="https://www.linkedin.com/in/gcastro98/"> <img height="25em" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- TWITTER --> <a href="https://twitter.com/gcastro_98"> <img height="25em" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <!-- FACEBOOK --> <a href="https://www.facebook.com/gerard.castro.castillo"> <img height="25em" width="100em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <!-- INSTAGRAM --> <a href="https://www.instagram.com/gerhhard/"> <img height="25em" width="100em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+
 
 ## Summary
 
@@ -14,8 +16,6 @@ Amongst other things: I love maths, modelling & computers. No wonder why I work 
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/gcastro98/) or filling the form of my [personal page](https://gcastro-98.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy game dev (C#), or writing a little bit of poetry, when I have some spare time...
-<!-- - ✨ Curious learner: on -->
-<!-- - 🤔 You can check my personal page for more info -->
 
 ## Some stats
 
