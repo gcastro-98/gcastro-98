@@ -11,7 +11,7 @@
 
 Amongst other things: I love maths, physics, modelling & computers. No wonder why we started [Nebbo](https://linkedin.com/company/nebbo-weather), right? But did you know... 
 
-- 🔭 [Nebbo](https://linkedin.com/company/nebbo-weather) is a seasonal weather forecasting company, a [Vortex](https://www.linkedin.com/company/vortex/) _spin-off_, in which I am working as Technical Director 
+- 🔭 <a href="https://linkedin.com/company/nebbo-weather"><img src="img/logo-small-negative.png" alt="Nebbo" width="65"/></a> is a seasonal weather forecasting company, a [Vortex](https://www.linkedin.com/company/vortex/) _spin-off_, in which I am working as Technical Director 
 - 🌱 I studied Maths & Physics in [UAB](https://www.uab.cat/web/estudiar/ehea-degrees/general-information/physics-mathematics-1216708259085.html?param1=1216795185845), and Data Science in [UB](https://mat.ub.edu/sciencedata/)
 - 💬 Ask me about diving, nature and sport and I will not shut up 
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/gcastro98/)
