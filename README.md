@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1> Encantat 👋, I'm Gerard! </h1>
+  <h1> <i>Encantat</i> 👋, I'm Gerard! </h1>
   
   <a href="https://gcastro-98.github.io/"> <img height="25em" width="auto" src="img/my-page-badge.png" /></a> <!-- LINKEDIN --> <a href="https://www.linkedin.com/in/gcastro98/"> <img height="25em" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- TWITTER --> <a href="https://twitter.com/gcastro_98"> <img height="25em" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
@@ -7,18 +7,17 @@
 
 ## A little bit about me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Gerard!;Mathematician,+physicist...;...and+now+data+scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Gerard!;Mathematician,+physicist...;...and+AI+geek)](https://git.io/typing-svg)
 
-Amongst other things: I love maths, modelling & computers. No wonder why I work as Data Scientist, right? But did you know... 
+Amongst other things: I love maths, physics, modelling & computers. No wonder why we started [Nebbo](https://linkedin.com/company/nebbo-weather), right? But did you know... 
 
-- 🔭 I'm the main developer of the (meteorological) seasonal forecasting product at [Vortex](https://vortexfdc.com/)
-- 🌱 I studied Maths & Physics in [UAB](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html). Now I am pursuing my MSc on Data Science in [UB](https://web.ub.edu/)
-- 👯 Looking forward to collaborate on AI-related projects!
-- 💬 Ask me about diving and I will not shut up 
+- 🔭 [Nebbo](https://linkedin.com/company/nebbo-weather) is a seasonal weather forecasting company, a [Vortex](https://www.linkedin.com/company/vortex/) _spin-off_, in which I am working as Technical Director 
+- 🌱 I studied Maths & Physics in [UAB](https://www.uab.cat/web/estudiar/ehea-degrees/general-information/physics-mathematics-1216708259085.html?param1=1216795185845), and Data Science in [UB](https://mat.ub.edu/sciencedata/)
+- 💬 Ask me about diving, nature and sport and I will not shut up 
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/gcastro98/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: when I have some spare time I enjoy game dev (C#), writing a little bit of poetry, going hiking...
 
+<!--
 ## Github stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcastro-98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
